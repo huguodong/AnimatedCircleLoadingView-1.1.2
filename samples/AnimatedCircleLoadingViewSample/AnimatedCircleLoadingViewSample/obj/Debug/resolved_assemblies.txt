@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\AnimatedCircleLoadingView-1.1.2\samples\AnimatedCircleLoadingViewSample\AnimatedCircleLoadingViewSample\obj\Debug\assemblies\AnimatedCircleLoadingViewSample.dll
+C:\Users\Administrator\Desktop\AnimatedCircleLoadingView-1.1.2\samples\AnimatedCircleLoadingViewSample\AnimatedCircleLoadingViewSample\obj\Debug\assemblies\AnimatedCircleLoadingView.dll
+C:\Users\Administrator\Desktop\AnimatedCircleLoadingView-1.1.2\samples\AnimatedCircleLoadingViewSample\AnimatedCircleLoadingViewSample\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Administrator\Desktop\AnimatedCircleLoadingView-1.1.2\samples\AnimatedCircleLoadingViewSample\AnimatedCircleLoadingViewSample\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Administrator\Desktop\AnimatedCircleLoadingView-1.1.2\samples\AnimatedCircleLoadingViewSample\AnimatedCircleLoadingViewSample\obj\Debug\assemblies\System.Core.dll
+C:\Users\Administrator\Desktop\AnimatedCircleLoadingView-1.1.2\samples\AnimatedCircleLoadingViewSample\AnimatedCircleLoadingViewSample\obj\Debug\assemblies\System.dll
+C:\Users\Administrator\Desktop\AnimatedCircleLoadingView-1.1.2\samples\AnimatedCircleLoadingViewSample\AnimatedCircleLoadingViewSample\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Administrator\Desktop\AnimatedCircleLoadingView-1.1.2\samples\AnimatedCircleLoadingViewSample\AnimatedCircleLoadingViewSample\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Administrator\Desktop\AnimatedCircleLoadingView-1.1.2\samples\AnimatedCircleLoadingViewSample\AnimatedCircleLoadingViewSample\obj\Debug\assemblies\System.ServiceModel.Internals.dll
